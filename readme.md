@@ -5,7 +5,7 @@ ShopFlow Analytics is an end-to-end data engineering project that processes raw 
 ## Tech Stack
 - Python
 - Pandas
-- PostgreSQL
+- SQLite
 - SQLAlchemy
 - Streamlit
 
